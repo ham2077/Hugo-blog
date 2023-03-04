@@ -1,11 +1,11 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://eloquent-bavarois-dae559.netlify.app/"
 languageCode = "en-us"
 title = "ham.when"
 theme = "hugo-theme-shell"
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "homepage of ham"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
