@@ -12,7 +12,7 @@ theme = "hugo-theme-shell"
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: or
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "shell-powershell"
+  schema = "shell-powershell"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -68,6 +68,6 @@ theme = "hugo-theme-shell"
   folderName = "website-map"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Some words of mine", "c0gham.vercel.app"],
-    ["Who is ham?", "about"],
+    ["Some words of mine", "https://c0gham.vercel.app"],
+    ["Who is ham?", "/about/"],
   ]
